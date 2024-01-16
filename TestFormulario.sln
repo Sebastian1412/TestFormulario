@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario1", "WebApplication1\Formulario1.csproj", "{63191C37-C1E7-45E5-B3D6-ED39A3E014C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa1", "Capa1", "{BAEBEC2C-16A2-47A2-9B10-CF8E5140A18B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa2", "Capa2", "{807E9B91-3250-4AE1-9507-BE5D1DA728D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63191C37-C1E7-45E5-B3D6-ED39A3E014C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63191C37-C1E7-45E5-B3D6-ED39A3E014C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63191C37-C1E7-45E5-B3D6-ED39A3E014C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63191C37-C1E7-45E5-B3D6-ED39A3E014C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63191C37-C1E7-45E5-B3D6-ED39A3E014C2} = {BAEBEC2C-16A2-47A2-9B10-CF8E5140A18B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76952C1D-A9DD-4964-8534-C7955994C602}
+	EndGlobalSection
+EndGlobal
